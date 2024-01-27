@@ -158,7 +158,7 @@ a{
     }
 }
 @media screen and (max-width: 720px){
-    .header-buttons__log-in{
+   .header-buttons__log-in{
         padding: 15px 35px;
         margin: 0 10px 2px 0;
     }
